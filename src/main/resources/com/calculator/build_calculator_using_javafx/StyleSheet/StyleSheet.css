@@ -1,0 +1,15 @@
+.ClickButton{
+-fx-background-radius: 40;
+-fx-background-color:#222427;
+}
+.ClickButton:hover
+{
+-fx-background-color:#2EC973;
+}
+.ClickButtonOperator{
+-fx-background-radius: 40;
+-fx-background-color:#FF9500;
+}
+.ClickButtonOperator:hover{
+-fx-background-color:#132BD7;
+}
